@@ -1,0 +1,7 @@
+PUT /contacts/{id}
+Content-Type: application/json
+
+{
+  "name": "Jane Doe",
+  "phone": "+9876543210"
+}
